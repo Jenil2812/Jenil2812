@@ -4,7 +4,7 @@ name: Generate Snake
 
   
   
-  Controls when the action will run. This action runs every 6 hours.
+ ## Controls when the action will run. This action runs every 6 hours.
 
 
 on:
@@ -19,7 +19,7 @@ on:
 
   
   
-  This command allows us to run the Action automatically from the Actions tab.
+  ##This command allows us to run the Action automatically from the Actions tab.
 
 
 workflow_dispatch:
@@ -28,7 +28,7 @@ workflow_dispatch:
 
   
   
-  The sequence of runs in this workflow:
+ ## The sequence of runs in this workflow:
 
 
 jobs:
