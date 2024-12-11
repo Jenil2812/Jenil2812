@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is Jenil and I'm a Cloud Enthusiast, from India/Canada</p>
+<p align="left">My name is Jenil and I'm a Cloud Enthusiast, from Canada</p>
 
 ###
 
